@@ -1,6 +1,8 @@
 body{
     background: #ccc;
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .photo{
@@ -45,7 +47,7 @@ a {
 
 .post_imagem{
     margin-bottom: 15px;
-
+    width: 100%;
 }
 
 .contacts_list{
